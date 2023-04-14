@@ -6,7 +6,7 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 
 ``Currently updated to Skyline #2192``
 
-***If your game is not there then it may be in the unofficial section***
+***If your game is not there then it may be in the unofficial section, the entries there might also become outdated. If a game was playable it hardly ever regresses, so keep that in mind***
 
 - ``Astroneer``
 > Status - Boots then nothing.
