@@ -1,4 +1,4 @@
-# [Skyline](https://skyline-emu.one) compaitbility list [v5]
+# [Skyline](https://skyline-emu.one) compaitbility list [v6]
 
 ***For Mali GPU***
 
@@ -11,121 +11,145 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 >>***Note*** - Plays garbled audio once then crashes
 
 - ``Blossom tales``
->Runs very well, Ran into a crash once while testing
+> Status - Playable
+>>***Note*** - May have memleak, crashed once after a while
 
 - ``Broforce``
->Seizure graphics, bad fps update doesn't seem to do much
+> Status - In-game
+>>***Note*** - Seizure graphics, bad fps update doesn't seem to do much
 
 - ``Cat Quest``
->Max performance, no bugs
+> Status - Perfect
 
 - ``Cat Quest 2``
->Unplayable without updating, afterwards its perfection :bite:
+> Status - Perfect
+>>***Note*** - Requires update
 
 - ``Cave story``
->Refuses to boot,
->>Updated ver goes to menu before deadlock
+> Status - In-game
+>>***Note*** - Requires update, updated ver goes to menu before deadlock
 
 - ``Crashlands``
->Deadlocks in the cutscene without update, afterwards its perfect
+> Status - Perfect
+>>***Note*** - Deadlocks in the cutscene without update, afterwards its perfect
 
 - ``Dead cells``
 > Status - In-game
->>Deadlocks at next area. Update now works still has deadlocks
+>>***Note***Deadlocks at next area. Update now works still has deadlocks
 
 - ``Dont starve together``
 > Status - Somewhat playable before update. After update, worse fps.
 >>***Note*** - Dont turn on free guest texture mem.
 
 - ``Enter the gungeon``
->Stable 60 FPS, perfection
+> Status - Perfect
 
 - ``Evil tonight``
->Perfect as far as I can see
+> Status - Perfect(?)
 
 - ``Exit the gungeon``
->Bad fps, often deadlocks
+> Status - In-game
+>>***Note*** - Deadlocks often, bad fps
 
 - ``Forager``
->Runs well, Nuclear update runs well too. Perfect status
+> Status - Perfect
+>>***Note*** - Update works perfectly too
 
 - ``Ittle dew``
->60 FPS, Minor graphical bugs
+> Status - Playable
+>>***Note*** - Some graphical glitches, light sources cause flashing
 
 - ``Ittle dew 2``
->60-50 FPS, not so major graphical glitches
+> Status - Playable
+>>***Note*** - Mild graphical glitches
 
 - ``Katana ZERO``
->60 FPS, Perfect status
+> Status - Perfect
+>>***Note*** - May need update to fix textboxes
 
 - ``Lil gator game``
->Some FPS drops, mostly at 60 fps. some textures turn black
+> Status - Playable
+>>***Note***Some FPS drops, mostly 50-60. some textures turn black
 
 - ``Melatonin``
->60 FPS no bugs, seems perfect
+> Status - Perfect
+>>***Note*** - Make sure to calibrate delay in settings
 
 - ``Minecraft Dungeons``
->Shows no video, plays intro sound
+> Status - In-game
+>>***Note*** - Shows no video, plays intro sound
 
 - ``Outlast``
->Playable, graphical glitches
+> Status - In-game
+>>***Note*** - Graphical glitches
 
 - ``Pokémon brilliant diamond``
->Opens before exiting the game, no logs created
+> Status - Nothing
+>>***Note*** - Opens before exiting the game, no logs created
 
 - ``Portal``
->Playable with major graphical glitches
+> Status - In-game
+>>Major graphical glitches, deadlock in chamber near the end
 
 - ``Pokémon: Lets go eevee``
 > Status - Playable
 >>***Note*** - Mostly full fps but drops
     
 - ``Shadow fight 2``
->Perfect as far as I can see
+> Status - Perfect
 
 - ``Shovel knight dig``
 > Status - Perfect
 
 - ``Slime Rancher``
->30-60 FPS, Graphical bugs, crashes
+> Status - Playable
+>>***Note*** - 30-60 FPS, Graphical bugs
 
 - ``Stardew Valley``
->Both versions work perfectly (Gameplay)
+> Status - Perfect (Gameplay)
 >>***Note*** - Save issues. (Does not register saves)
 
 - ``Steamworld dig``
 > Status - Perfect
 
 - ``Steamworld dig 2``
->No bugs, more freezing if triple buffering is on
+> Status - Playable
+>>***Note*** - Deadlocking if triple buffering is on
 
 - ``Subnautica``
->Requires update, playable
+> Status - Playable
+>>***Note*** - Requires update, some textures may turn black
 
 - ``Super meat boy``
 > Status - Perfect
 
 - ``Tboi afterbirth+``
->Requires update, perfect as far as I can tell
+> Status - Perfect
+>>***Note*** - Requires update
 
 - ``Links awakening``
->Playable-ish, bad framerate
+> Status - Playable-ish(?)
+>>***Note*** - Bad framerate
 
 - ``Terraria``
-> Status - playable
->>***note*** - Requires settings, 30-60 FPS with intro screen bugged
+> Status - Playable
+>>***Note*** - Requires settings, 30-60 FPS with intro screen bugged
 
 - ``Botw``
->Updated runs at 30 FPS (Menu), gets stuck in the middle of loading saves, dots move. Supposedly fixed on new versions.
+> Status - In-game
+>>***Note*** - Updated runs at 30 FPS (Only menu), gets stuck in the middle of loading saves, dots move. Supposedly fixed on new versions.
 
 - ``The survivalists``
->Triple buffering must be off, Stable 30 fps. Getting it to work is annoying. refused after working once.
+> Status - Playable(?)
+>>***Note*** - Triple buffering must be off, Stable 30 fps. Getting it to work is annoying. refused after working once.
 
 - ``Untitled goose game``
->~50 fps, slightly buggy
+> Status - Playable
+>>***Note*** - ~50 fps, slightly buggy
 
 - ``Wizard of legend``
->Mostly 60 FPS, Difficult to beat because of lag
+> Status - Playable
+>>***Note*** - Mostly 60 FPS, Difficult to beat because of lag
 
 
 
