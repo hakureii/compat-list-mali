@@ -7,9 +7,10 @@ tested on g77 - ***Wumbee***
 ``Currently on Skyline #2192``
 
 - ``Astroneer``
-    Status: Nothing.
- ***note*** - Plays garbled audio once then
-    crashes
+
+Status: Nothing.
+
+***note*** - Plays garbled audio once then crashes
 
 - Blossom tales:
     Runs very well, Ran into a   
