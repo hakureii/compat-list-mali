@@ -14,7 +14,6 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 
 - ``Added changelogs``
 
-[Older_changelogs_here](https://raw.githubusercontent.com/fake-dyno/Wumbee-s_Mali_Compatibility_List/main/Changelogs)
 <br><br>
 </details>
 
