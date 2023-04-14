@@ -1,10 +1,12 @@
-# [Skyline](https://skyline-emu.one) compaitbility list [v6.1]
+# [Skyline](https://skyline-emu.one) compaitbility list [v6]
 
 ***For Mali GPU***
 
 Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 
 ``Currently updated to Skyline #2192``
+
+***If your game is not there then it may be in the unofficial section***
 
 - ``Astroneer``
 > Status - Boots then nothing.
@@ -32,6 +34,9 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 - ``Cave story``
 > Status - In-game
 >>***Note*** - Requires update, updated ver goes to menu before deadlock
+
+- ``Celeste``
+> Status - Perfect
 
 - ``Crashlands``
 > Status - Perfect
@@ -151,10 +156,12 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 > Status - Playable
 >>***Note*** - Mostly 60 FPS, Difficult to beat because of lag
 
+# Unofficial entries
 
-# Unofficials
+- ``The stanley parable``
+> Status - In-game
+>>***Note*** - Crashes randomly if you choose wrong path
 
-- ``Celeste``
->Status - ~~Fully Playable~~
->>Tested by Yuzusk.
->>>***Note*** - There's some bugs in post game 
+- ``Persona 5 royal``
+> Status - Playable
+>>***Note*** - Crashes at start after defeating big man, Requires save file
