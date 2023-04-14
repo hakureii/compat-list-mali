@@ -72,7 +72,7 @@ tested on g77 - [***Wumbee***](https://github.com/Wumbee01)
 
 - ``Pokémon brilliant diamond``
 > status - Blackscreen
->>Title I'd is missing,
+>>Game Title is missing,
 >>Open then exits to menu :(
 
 - ``Portal``
