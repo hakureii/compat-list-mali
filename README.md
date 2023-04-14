@@ -1,4 +1,4 @@
-# [skyline](https://skyline-emu.one) compaitbility list [v5]
+# [Skyline](https://skyline-emu.one) compaitbility list [v5]
 
 ***For Mali GPU***
 
