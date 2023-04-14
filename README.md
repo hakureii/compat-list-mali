@@ -7,150 +7,125 @@ tested on g77 - ***Wumbee***
 ``Currently on Skyline #2192``
 
 - ``Astroneer``
+>Status: Nothing.
+>>***note*** - Plays garbled audio once then crashes
 
-Status: Nothing.
+- ``Blossom tales``
+>Runs very well, Ran into a crash once while testing
 
-***note*** - Plays garbled audio once then crashes
+- ``Broforce``
+>Seizure graphics, bad fps update doesn't seem to do much
 
-- Blossom tales:
-    Runs very well, Ran into a   
-    crash once while testing
+- ``Cat Quest``
+>Max performance, no bugs
 
-- Broforce:
-    Seizure graphics, bad fps
-    update doesn't seem to do much
+- ``Cat Quest 2``
+>Unplayable without updating, afterwards its perfection :bite:
 
-- Cat Quest:
-    Max performance, no bugs
+- ``Cave story``
+>Refuses to boot,
+>>updated ver goes to menu before deadlock
 
-- Cat Quest 2:
-    Unplayable without updating, 
-    afterwards its perfection :bite:
+- ``Crashlands``
+>Deadlocks in the cutscene without update, afterwards its perfect
 
-- Cave story:
-    Refuses to boot,
-    updated ver goes to menu     
-    before deadlock
+- ``Dead cells``
+> status - In-game
+>>Deadlocks at next area. Update now works still has deadlocks
 
-- Crashlands:
-    Deadlocks in the cutscene 
-    without update, afterwards its 
-    perfect
+- ``Dont starve together``
+> status - Somewhat playable before update. After update, worse fps.
+>>***note*** - Dont turn on free guest texture mem.
 
-- Dead cells:
-    In-game, Deadlocks at next 
-    area. Update now works still 
-    has deadlocks
+- ``Enter the gungeon``
+>Stable 60 FPS, perfection
 
-- Dont starve together:
-    Somewhat playable before
-    update. After update, worse fps.
-    Dont turn on free guest texture mem.
+- ``Evil tonight``
+>Perfect as far as I can tell
 
-- Enter the gungeon:
-    Stable 60 FPS, perfection
+- ``Exit the gungeon``
+>Bad fps, often deadlocks
 
-- Evil tonight:
-    Perfect as far as I can tell
+- ``Forager``
+>Runs well, Nuclear update runs well too. Perfect status
 
-- Exit the gungeon:
-    Bad fps, often deadlocks
+- ``Ittle dew``
+>60 FPS, Minor graphical bugs
 
-- Forager:
-    Runs well, Nuclear update runs 
-    well too. Perfect status
+- ``Ittle dew 2``
+>60-50 FPS, not so major graphical glitches
 
-- Ittle dew:
-    60 FPS, Minor graphical bugs
+- ``Katana ZERO``
+>60 FPS, Perfect status
 
-- Ittle dew 2:
-    60-50 FPS, not so
-    major graphical glitches
+- ``Lil gator game``
+>Some FPS drops, mostly at 60 fps. some textures turn black
 
-- Katana ZERO:
-    60 FPS, Perfect status
+- ``Melatonin``
+>60 FPS no bugs, seems perfect
 
-- Lil gator game:
-    Some FPS drops, mostly at 60 fps.
-    some textures turn black
+- ``Minecraft Dungeons``
+>Shows no video, plays intro sound
 
-- Melatonin:
-    60 FPS no bugs, seems perfect
+- ``Outlast``
+>Playable, graphical glitches
 
-- Minecraft Dungeons:
-    Shows no video, plays intro sound
+- ```Pokémon brilliant diamond``
+> status - Blackscreen
+>>Open then exits to menu :(
 
-- Outlast:
-    Playable, graphical glitches
+- ``Portal``
+>Playable with major graphical glitches
 
-- Pokémon brilliant diamond:
-    Opens (Blackscreen) then exits
-    to menu :(
-
-- Portal:
-    Playable with major graphical 
-    glitches
-
-- Pokémon: Lets go eevee:
-    Full fps with some drops, playable
-    (probably)
+- ``Pokémon: Lets go eevee``
+>status - playable
+>>***note*** - full fps but drops
     
-- Shadow fight 2:
-    Perfect as far as I can see
+- ``Shadow fight 2``
+>Perfect as far as I can see
 
-- Shovel knight dig:
-    Perfect, full fps no drops no audio 
-    issues
+- ``Shovel knight dig``
+>Perfect, full fps no drops
+>>***note*** - no audio issues
 
-- Slime Rancher:
-    30-60 FPS, Graphical bugs, 
-    crashes
+- ``Slime Rancher``
+>30-60 FPS, Graphical bugs, crashes
 
-- Stardew Valley: 
-    Both versions work perfectly 
-    (Gameplay), save issues. (Does not 
-    register saves)
+- ``Stardew Valley``
+>Both versions work perfectly (Gameplay)
+>>***note*** -  save issues. (Does not register saves)
 
-- Steamworld dig:
-    No bugs
+- ``Steamworld dig``
+>No bugs
 
-- Steamworld dig 2:
-    No bugs, more freezing if triple 
-    buffering is on
+- ``Steamworld dig 2``
+>No bugs, more freezing if triple buffering is on
 
-- Subnautica:
-    Requires update, playable
+- ``Subnautica``
+>Requires update, playable
 
-- Super meat boy:
-    No bugs
+- ``Super meat boy``
+>No bugs
 
-- Tboi afterbirth+:
-    Requires update, perfect as far
-    as I can tell
+- ``Tboi afterbirth+``
+>Requires update, perfect as far as I can tell
 
-- Links awakening:
-    Playable-ish, bad framerate
+- ``Links awakening``
+>Playable-ish, bad framerate
 
-- Terraria:
-    Requires settings, 30-60 FPS 
-    with intro screen bugged, 
-    playable
+- ``Terraria``
+> status - playable
+>>***note*** - Requires settings, 30-60 FPS with intro screen bugged
 
-- Botw:
-    Updated runs at 30 FPS (Menu),
-    gets stuck in the middle of loading 
-    saves, dots move. Supposedly fixed on
-    new versions.
+- ``Botw``
+>Updated runs at 30 FPS (Menu), gets stuck in the middle of loading saves, dots move. Supposedly fixed on new versions.
 
-- The survivalists:
-    Triple buffering must be off, 
-    Stable 30 fps. Getting it to work is 
-    annoying. refused after working once.
+- ``The survivalists``
+>Triple buffering must be off, Stable 30 fps. Getting it to work is annoying. refused after working once.
 
-- Untitled goose game:
-    ~50 fps, slightly buggy
+- ``Untitled goose game``
+>~50 fps, slightly buggy
 
-- Wizard of legend:
-    Mostly 60 FPS, Difficult to 
-    beat because of lag
+- ``Wizard of legend``
+>Mostly 60 FPS, Difficult to beat because of lag
 
