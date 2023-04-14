@@ -127,3 +127,8 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 - ``Wizard of legend``
 >Mostly 60 FPS, Difficult to beat because of lag
 
+
+
+- ``Celeste``
+>status - fully playable
+>> tested by Yuzusk.
