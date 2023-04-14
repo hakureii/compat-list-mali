@@ -1,11 +1,13 @@
 # skyline compaitbility list
-for Mali GPU
-tested on g77 - Wumbee
-Currently on Skyline #2192
 
-- Astroneer: 
-    Status: Nothing. Plays
-    garbled audio once then
+***for Mali GPU***
+
+tested on g77 - ***Wumbee***
+``Currently on Skyline #2192``
+
+- ``Astroneer``: 
+    ``Status: Nothing.``
+ ***note*** - Plays garbled audio once then
     crashes
 
 - Blossom tales:
