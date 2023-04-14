@@ -1,14 +1,14 @@
-# [skyline](https://skyline-emu.one) compaitbility list v.4
+# [skyline](https://skyline-emu.one) compaitbility list [v5]
 
-***for Mali GPU***
+***For Mali GPU***
 
-tested on g77 - [***Wumbee***](https://github.com/Wumbee01)
+Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 
-``Currently on Skyline #2192``
+``Currently updated to Skyline #2192``
 
 - ``Astroneer``
->Status: Nothing.
->>***note*** - Plays garbled audio once then crashes
+> Status - Boots then nothing.
+>>***Note*** - Plays garbled audio once then crashes
 
 - ``Blossom tales``
 >Runs very well, Ran into a crash once while testing
@@ -24,24 +24,24 @@ tested on g77 - [***Wumbee***](https://github.com/Wumbee01)
 
 - ``Cave story``
 >Refuses to boot,
->>updated ver goes to menu before deadlock
+>>Updated ver goes to menu before deadlock
 
 - ``Crashlands``
 >Deadlocks in the cutscene without update, afterwards its perfect
 
 - ``Dead cells``
-> status - In-game
+> Status - In-game
 >>Deadlocks at next area. Update now works still has deadlocks
 
 - ``Dont starve together``
-> status - Somewhat playable before update. After update, worse fps.
->>***note*** - Dont turn on free guest texture mem.
+> Status - Somewhat playable before update. After update, worse fps.
+>>***Note*** - Dont turn on free guest texture mem.
 
 - ``Enter the gungeon``
 >Stable 60 FPS, perfection
 
 - ``Evil tonight``
->Perfect as far as I can tell
+>Perfect as far as I can see
 
 - ``Exit the gungeon``
 >Bad fps, often deadlocks
@@ -77,24 +77,24 @@ tested on g77 - [***Wumbee***](https://github.com/Wumbee01)
 >Playable with major graphical glitches
 
 - ``Pokémon: Lets go eevee``
->status - playable
->>***note*** - full fps but drops
+> Status - Playable
+>>***Note*** - Mostly full fps but drops
     
 - ``Shadow fight 2``
 >Perfect as far as I can see
 
 - ``Shovel knight dig``
->status - Perfect, no issues.
+> Status - Perfect
 
 - ``Slime Rancher``
 >30-60 FPS, Graphical bugs, crashes
 
 - ``Stardew Valley``
 >Both versions work perfectly (Gameplay)
->>***note*** -  save issues. (Does not register saves)
+>>***Note*** - Save issues. (Does not register saves)
 
 - ``Steamworld dig``
->No bugs
+> Status - Perfect
 
 - ``Steamworld dig 2``
 >No bugs, more freezing if triple buffering is on
@@ -103,7 +103,7 @@ tested on g77 - [***Wumbee***](https://github.com/Wumbee01)
 >Requires update, playable
 
 - ``Super meat boy``
->No bugs
+> Status - Perfect
 
 - ``Tboi afterbirth+``
 >Requires update, perfect as far as I can tell
@@ -112,7 +112,7 @@ tested on g77 - [***Wumbee***](https://github.com/Wumbee01)
 >Playable-ish, bad framerate
 
 - ``Terraria``
-> status - playable
+> Status - playable
 >>***note*** - Requires settings, 30-60 FPS with intro screen bugged
 
 - ``Botw``
