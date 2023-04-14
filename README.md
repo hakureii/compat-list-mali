@@ -1,6 +1,6 @@
-# Skyline Compaitbility list for Mali G77
-Probably the same results for other Mali GPUs
-Made by Wumbee 
+# skyline compaitbility list
+for Mali GPU
+tested on g77 - Wumbee
 Currently on Skyline #2192
 
 - Astroneer: 
