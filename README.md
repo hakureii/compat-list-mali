@@ -72,7 +72,7 @@ tested on g77 - [***Wumbee***](https://github.com/Wumbee01)
 
 - ``Pokémon brilliant diamond``
 > status - Blackscreen
->>Game Title is missing,
+>>"Pokemon Brilliant Diamond/Shining Pearl"(title) is missing,
 >>Open then exits to menu :(
 
 - ``Portal``
