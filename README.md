@@ -70,7 +70,7 @@ tested on g77 - [***Wumbee***](https://github.com/Wumbee01)
 - ``Outlast``
 >Playable, graphical glitches
 
-- ```Pokémon brilliant diamond``
+- ``Pokémon brilliant diamond``
 > status - Blackscreen
 >>Title I'd is missing,
 >>Open then exits to menu :(
