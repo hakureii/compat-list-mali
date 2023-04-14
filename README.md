@@ -72,6 +72,7 @@ tested on g77 - [***Wumbee***](https://github.com/Wumbee01)
 
 - ```Pokémon brilliant diamond``
 > status - Blackscreen
+>>Title I'd is missing,
 >>Open then exits to menu :(
 
 - ``Portal``
@@ -85,8 +86,7 @@ tested on g77 - [***Wumbee***](https://github.com/Wumbee01)
 >Perfect as far as I can see
 
 - ``Shovel knight dig``
->Perfect, full fps no drops
->>***note*** - no audio issues
+>status - Perfect, no issues.
 
 - ``Slime Rancher``
 >30-60 FPS, Graphical bugs, crashes
