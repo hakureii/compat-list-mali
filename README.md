@@ -2,7 +2,7 @@
 
 ***for Mali GPU***
 
-tested on g77 - ***Wumbee***
+tested on g77 - [***Wumbee***](https://github.com/Wumbee01)
 
 ``Currently on Skyline #2192``
 
