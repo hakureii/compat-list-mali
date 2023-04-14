@@ -1,4 +1,4 @@
-# [Skyline](https://skyline-emu.one) compaitbility list [v6]
+# [Skyline](https://skyline-emu.one) compaitbility list [v6.1]
 
 ***For Mali GPU***
 
@@ -13,6 +13,10 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 - ``Blossom tales``
 > Status - Playable
 >>***Note*** - May have memleak, crashed once after a while
+
+- ``Botw``
+> Status - In-game
+>>***Note*** - Updated runs at 30 FPS (Only menu), gets stuck in the middle of loading saves, dots move. Supposedly fixed on new versions.
 
 - ``Broforce``
 > Status - In-game
@@ -71,6 +75,10 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 > Status - Playable
 >>***Note***Some FPS drops, mostly 50-60. some textures turn black
 
+- ``Links awakening``
+> Status - Playable-ish(?)
+>>***Note*** - Bad framerate
+
 - ``Melatonin``
 > Status - Perfect
 >>***Note*** - Make sure to calibrate delay in settings
@@ -127,17 +135,9 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 > Status - Perfect
 >>***Note*** - Requires update
 
-- ``Links awakening``
-> Status - Playable-ish(?)
->>***Note*** - Bad framerate
-
 - ``Terraria``
 > Status - Playable
 >>***Note*** - Requires settings, 30-60 FPS with intro screen bugged
-
-- ``Botw``
-> Status - In-game
->>***Note*** - Updated runs at 30 FPS (Only menu), gets stuck in the middle of loading saves, dots move. Supposedly fixed on new versions.
 
 - ``The survivalists``
 > Status - Playable(?)
@@ -152,7 +152,9 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 >>***Note*** - Mostly 60 FPS, Difficult to beat because of lag
 
 
+# Unofficials
 
 - ``Celeste``
->status - fully playable
->> tested by Yuzusk.
+>Status - ~~Fully Playable~~
+>>Tested by Yuzusk.
+>>>***Note*** - There's some bugs in post game 
