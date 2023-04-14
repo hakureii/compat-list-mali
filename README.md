@@ -71,9 +71,7 @@ tested on g77 - [***Wumbee***](https://github.com/Wumbee01)
 >Playable, graphical glitches
 
 - ``Pokémon brilliant diamond``
-> status - Blackscreen
->>"Pokemon Brilliant Diamond/Shining Pearl"(title) is missing,
->>Open then exits to menu :(
+>Opens before exiting the game, no logs created
 
 - ``Portal``
 >Playable with major graphical glitches
