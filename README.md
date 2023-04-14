@@ -1,4 +1,4 @@
-# [Skyline](https://skyline-emu.one) compaitbility list [v6]
+# [Skyline](https://skyline-emu.one) compaitbility list [v6.5]
 
 ***For Mali GPU***
 
@@ -117,6 +117,9 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 - ``Slime Rancher``
 > Status - Playable
 >>***Note*** - 30-60 FPS, Graphical bugs
+
+- ``Sonic Mania``
+> Status - Perfect
 
 - ``Stardew Valley``
 > Status - Perfect (Gameplay)
