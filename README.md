@@ -175,7 +175,7 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 
 # Unofficial entries
 
-- ``The stanley parable``
+- ``The Stanley parable``
 > Status - In-game
 >>***Note*** - Crashes randomly if you choose wrong path
 
