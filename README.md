@@ -7,17 +7,10 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 ``Currently updated to Skyline #2192``
 
 <details>
-<summary> Update v6.5 Changelog </summary>
+<summary> Update v7 Changelog </summary>
 <br>
 
-- ``Added Game Sonic Mania``
-
-- ``Added changelogs``
-
-#
-``ETA log``
 - ``Added Game Hades``
-> ***Note*** - version info not updated yet
 
 <br><br>
 </details>
