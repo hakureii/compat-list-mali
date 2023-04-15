@@ -1,4 +1,4 @@
-# [Skyline](https://skyline-emu.one) compaitbility list [v7]
+# [Skyline](https://skyline-emu.one) compaitbility list [v8]
 
 ***For Mali GPU***
 
@@ -7,10 +7,11 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 ``Currently updated to Skyline #2192``
 
 <details>
-<summary> Update v7 Changelog </summary>
+<summary> Update v8 Changelog </summary>
 <br>
 
 - ``Added Game - Hades``
+- ``Added experimental homebrew section``
 
 <br><br>
 </details>
@@ -72,6 +73,10 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 - ``Forager``
 > Status - Perfect
 >>***Note*** - Update works perfectly too
+
+- ``Hades``
+> Status - In-game
+>>***Note*** - Fps drops, character and menu/loading screens flicker
 
 - ``Ittle dew``
 > Status - Playable
@@ -178,6 +183,16 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 > Status - Playable
 >>***Note*** - Crashes at start after defeating big man, Requires save file
 
-- ``Hades``
-> Status - In Game
->> ***Note*** - Makes it to the menu then freeze. May be low ram issue.
+# Homebrew entries
+
+- ``dhewm3-nx``
+> Status - Nothing
+>>***Note*** - No logs created, exits out
+
+- ``nx-hbmenu``
+> Status - Boots
+>>***Note*** - Obviously doesn't like skyline, throws error
+
+- ``Ship of Harkanian``
+> Status - Boots
+>>***Note*** - Logs created, skyline missing necessary requirements
