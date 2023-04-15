@@ -1,4 +1,4 @@
-# [Skyline](https://skyline-emu.one) compaitbility list [v6.5]
+# [Skyline](https://skyline-emu.one) compaitbility list [v7]
 
 ***For Mali GPU***
 
@@ -10,7 +10,7 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 <summary> Update v7 Changelog </summary>
 <br>
 
-- ``Added Game Hades``
+- ``Added Game - Hades``
 
 <br><br>
 </details>
@@ -180,4 +180,4 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 
 - ``Hades``
 > Status - In Game
->> ***Note*** - Game loads to the menu then freeze.
+>> ***Note*** - Makes it to the menu then freeze. May be low ram issue.
