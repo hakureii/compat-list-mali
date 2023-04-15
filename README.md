@@ -14,6 +14,11 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 
 - ``Added changelogs``
 
+#
+``ETA log``
+- ``Added Game Hades``
+> ***Note*** - version info not updated yet
+
 <br><br>
 </details>
 
@@ -179,3 +184,7 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 - ``Persona 5 royal``
 > Status - Playable
 >>***Note*** - Crashes at start after defeating big man, Requires save file
+
+- ``Hades``
+> Status - In Game
+>> ***Note*** - Game loads to the menu then freeze.
