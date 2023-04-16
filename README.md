@@ -1,16 +1,17 @@
-# [Skyline](https://skyline-emu.one) compaitbility list [v8.5]
+# [Skyline](https://skyline-emu.one) compaitbility list [v9]
 
 ***For Mali GPU***
 
 Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 
-``Currently updated to Skyline #2192``
+``Currently updated to Skyline #2419``
 
 <details>
-<summary> Update v8.5 Changelog </summary>
+<summary> Update v9 Changelog </summary>
 <br>
 
-- ``Added Game - Zelda: Skyward Sword``
+- ``Updated entry - Hades``
+- ``Now updated to Skyline #2419``
 
 <br><br>
 </details>
@@ -75,7 +76,7 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 
 - ``Hades``
 > Status - In-game
->>***Note*** - Fps drops, character and menu/loading screens flicker
+>>***Note*** - Fps drops, game blackscreens and dies if you die
 
 - ``Ittle dew``
 > Status - Playable
@@ -176,17 +177,17 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 
 - ``Persona 5 royal``
 > Status - Playable
->>Tested by: ***tanos#4079***
+>> Tested by: ***tanos#4079***
 >>>***Note*** - Crashes at start after defeating big man, Requires save file
 
 - ``The Stanley parable``
 > Status - In-game
->>Tested by: ***tanos#4079***
+>> Tested by: ***tanos#4079***
 >>>***Note*** - Crashes randomly if you choose wrong path
 
 - ``TLoZ: Skyward Sword``
 > Status - In-game
->>Tested by: ***Yuzusk#4353***
+>> Tested by: ***Yuzusk#4353***
 >>>***Note*** - Game may have a bug later into it preventing progression 
 
 # Homebrew entries
