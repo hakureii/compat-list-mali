@@ -179,10 +179,9 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 > Status - Playable
 >>***Note*** - Crashes at start after defeating big man, Requires save file
 
-- ``The Legend of Zelda: Skyward Sword HD``
+- ``TLoZ: Skyward Sword``
 > Status - In-game
->>***Note*** If you're facing bugs please contact me on skyline discord "@Δυνο#9863"
->>>Tested by: ***Yuzusk#4353***
+>>Tested by: ***Yuzusk#4353***
 
 - ``The Stanley parable``
 > Status - In-game
