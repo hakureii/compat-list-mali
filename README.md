@@ -10,7 +10,6 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 <summary> Update v8.5 Changelog </summary>
 <br>
 
-- ``Added experimental homebrew section``
 - ``Added Game - Zelda: Skyward Sword``
 
 <br><br>
@@ -177,15 +176,18 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 
 - ``Persona 5 royal``
 > Status - Playable
->>***Note*** - Crashes at start after defeating big man, Requires save file
+>>Tested by: ***tanos#4079***
+>>>***Note*** - Crashes at start after defeating big man, Requires save file
+
+- ``The Stanley parable``
+> Status - In-game
+>>Tested by: ***tanos#4079***
+>>>***Note*** - Crashes randomly if you choose wrong path
 
 - ``TLoZ: Skyward Sword``
 > Status - In-game
 >>Tested by: ***Yuzusk#4353***
-
-- ``The Stanley parable``
-> Status - In-game
->>***Note*** - Crashes randomly if you choose wrong path
+>>>***Note*** - Game may have a bug later into it preventing progression 
 
 # Homebrew entries
 
