@@ -1,4 +1,4 @@
-# [Skyline](https://skyline-emu.one) compaitbility list [v8]
+# [Skyline](https://skyline-emu.one) compaitbility list [v8.5]
 
 ***For Mali GPU***
 
@@ -7,11 +7,11 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 ``Currently updated to Skyline #2192``
 
 <details>
-<summary> Update v8 Changelog </summary>
+<summary> Update v8.5 Changelog </summary>
 <br>
 
-- ``Added Game - Hades``
 - ``Added experimental homebrew section``
+- ``Added Game - Zelda: Skyward Sword``
 
 <br><br>
 </details>
@@ -175,13 +175,17 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 
 # Unofficial entries
 
-- ``The Stanley parable``
-> Status - In-game
->>***Note*** - Crashes randomly if you choose wrong path
-
 - ``Persona 5 royal``
 > Status - Playable
 >>***Note*** - Crashes at start after defeating big man, Requires save file
+
+- ``The Legend of Zelda: Skyward Sword HD``
+> Status - In-game
+>>***Note*** If you're facing bugs please contact me on skyline discord "@Δυνο#9863"
+
+- ``The Stanley parable``
+> Status - In-game
+>>***Note*** - Crashes randomly if you choose wrong path
 
 # Homebrew entries
 
