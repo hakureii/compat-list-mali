@@ -96,7 +96,7 @@ If your game is not there then it may be in the unofficial section, the entries 
 
 - ``Lil gator game``
 > Status - Playable
->>***Note***Some FPS drops, mostly 50-60. some textures turn black
+>>***Note*** - Some FPS drops, mostly 50-60. some textures turn black
 
 - ``Links awakening``
 > Status - Playable-ish(?)
