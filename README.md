@@ -1,4 +1,4 @@
-# [Skyline](https://skyline-emu.one) compaitbility list [v9]
+# [Skyline](https://skyline-emu.one) compaitbility list [v9.5]
 
 ***For Mali GPU***
 
@@ -7,11 +7,10 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 ``Currently updated to Skyline #2419``
 
 <details>
-<summary> Update v9 Changelog </summary>
+<summary> Update v9.5 Changelog </summary>
 <br>
 
-- ``Updated entry - Hades``
-- ``Now updated to Skyline #2419``
+- ``Updated entry - Outlast (Regression)``
 
 <br><br>
 </details>
@@ -107,8 +106,8 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 >>***Note*** - Shows no video, plays intro sound
 
 - ``Outlast``
-> Status - In-game
->>***Note*** - Graphical glitches
+> Status - Boots
+>>***Note*** - Deadlocks just before it gets to menu
 
 - ``Pokémon brilliant diamond``
 > Status - Nothing
