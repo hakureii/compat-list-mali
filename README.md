@@ -10,7 +10,39 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 <summary> Update v11 Changelog </summary>
 <br>
 
-- Updated entry - Outlast (Regression)
+- Added statuses section
+- Updated entry - Persona 5 royal
+- Added games (Unofficial section):
+* A short hike
+* Baba is you
+* Carrion
+* Captain toad treasure tracker
+* Doki Doki
+* Dude stop
+* Game boy advance - Online
+* Good job
+* Just shapes and beats
+* Kamiko
+* Kindergarten: Buddy edition 
+* Minecraft
+* Mini motorways
+* Omori
+* Payday 2
+* Pico park
+* Ace attorney
+* Pikuniku
+* Portal 2
+* Rain world
+* Road 96
+* Super mario odyssey
+* Sayonara wild hearts
+* Sonic mania
+* Super smash bros ultimate
+* The binding of issac repentance
+* Toodee and topdee
+* vvvvvv
+* Void prison
+* What the golf
 
 </details>  
 
