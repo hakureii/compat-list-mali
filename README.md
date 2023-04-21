@@ -179,8 +179,60 @@ If your game is not there then it may be in the unofficial section, the entries 
 
 # Unofficial entries
 
-- ``Persona 5 royal``
+- ``Ace attorney``
+> Status - Perfect
+>> Tested by: ***tanos#4079***
+
+- ``A short hike``
+> Status - In-game 
+>> Tested by: ***tanos#4079***
+>>>***Note*** - Graphical issues
+
+- ``Baba is you``
+> Status - Perfect
+>> Tested by: ***tanos#4079***
+
+- ``Carrion``
 > Status - Playable
+>> Tested by: ***tanos#4079***
+>>>***Note*** - May crash a few times on startup
+
+- ``Captain toad treasure tracker``
+> Status - In-game 
+>> Tested by: ***tanos#4079***
+
+- ``Doki Doki``
+> Status - Perfect
+>> Tested by: ***tanos#4079***
+
+- ``Dude stop``
+> Status - Perfect
+>> Tested by: ***tanos#4079***
+
+- ``Game boy advance (NSO)``
+> Status - Perfect 
+>> Tested by: ***tanos#4079***
+
+- ``Good job``
+> Status - Playable(?)
+>> Tested by: ***tanos#4079***
+>>>***Note*** - Only 10 fps
+
+- ``Just shapes and beats``
+> Status - Perfect
+>> Tested by: ***tanos#4079***
+
+- ``Kamiko``
+> Status - Perfect
+>> Tested by: ***tanos#4079***
+
+- ``Kindergarten: Buddy edition``
+> Status - Playable
+>> Tested by: ***tanos#4079***
+>>>***Note*** - Graphical issues
+
+- ``Persona 5 royal``
+> Status - In-game
 >> Tested by: ***tanos#4079***
 >>>***Note*** - Crashes at start after defeating big man, Requires save file
 
