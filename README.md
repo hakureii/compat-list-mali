@@ -1,4 +1,4 @@
-# [Skyline](https://skyline-emu.one) compaitbility list [v9.5]
+# [Skyline](https://skyline-emu.one) compaitbility list [v11]
 
 ***For Mali GPU***
 
@@ -7,7 +7,7 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 ``Currently updated to Skyline #2419``
 
 <details>
-<summary> Update v9.5 Changelog </summary>
+<summary> Update v11 Changelog </summary>
 <br>
 
 - Updated entry - Outlast (Regression)
@@ -21,6 +21,22 @@ If your game is not there then it may be in the unofficial section, the entries 
 </sub>
 
 <br><br>
+
+<details>
+<summary> What the statuses mean </summary>
+<br>
+
+- ``Nothing`` - Opens, no logs created
+- ``Boots`` - Game opens, usually doesn't progress far
+- ``In-game`` - Not reported as being finishable, usually has bugs
+- ``Playable`` - Reported as finishable
+- ``Perfect`` - No bugs
+
+</details> 
+
+<br>
+
+# Official entries
 
 - ``Astroneer``
 > Status - Boots then nothing.
@@ -231,10 +247,74 @@ If your game is not there then it may be in the unofficial section, the entries 
 >> Tested by: ***tanos#4079***
 >>>***Note*** - Graphical issues
 
+- ``Minecraft``
+> Status - Playable
+>> Tested by: ***tanos#4079***
+>>>***Note*** - Low fps, (20 FPS)
+
+- ``Mini motorways``
+> Status - Perfect
+>> Tested by: ***tanos#4079***
+
+- ``Omori``
+> Status - Perfect 
+>> Tested by: ***tanos#4079***
+
+- ``Payday 2``
+> Status - In-game
+>> Tested by: ***tanos#4079***
+>>>***Note*** - Crashes after pressing L2+R2
+
 - ``Persona 5 royal``
 > Status - In-game
 >> Tested by: ***tanos#4079***
 >>>***Note*** - Crashes at start after defeating big man, Requires save file
+
+- ``Pico park``
+> Status - In-game
+>> Tested by: ***tanos#4079***
+>>>***Note*** - Bugged graphics
+
+- ``Pikuniku``
+> Status - In-game
+>> Tested by: ***tanos#4079***
+
+- ``Portal 2``
+> Status - Boots
+>> Tested by: ***tanos#4079***
+>>>***Note*** - Crashes
+
+- ``Rain world``
+> Status - In-game
+>> Tested by: ***tanos#4079***
+
+- ``Road 96``
+> Status - In-game 
+>> Tested by: ***tanos#4079***
+>>>***Note*** - Crashes after generating route
+
+- ``Super Mario odyssey``
+> Status - In-game
+>> Tested by: ***tanos#4079***
+>>>***Note*** - Crashes at metro kingdom
+
+- ``Sayonara wild hearts``
+> Status - Boots 
+>> Tested by: ***tanos#4079***
+>>>***Note*** - Crashes
+
+- ``Sonic mania``
+> Status - Perfect 
+>> Tested by: ***tanos#4079***
+
+- ``Super smash bros ultimate``
+> Status - In-game 
+>> Tested by: ***tanos#4079***
+>>>***Note*** - Crashes on big maps
+
+- ``The binding of issac repentance (JP)``
+> Status - Perfect 
+>> Tested by: ***tanos#4079***
 
 - ``The Stanley parable``
 > Status - In-game
@@ -245,6 +325,25 @@ If your game is not there then it may be in the unofficial section, the entries 
 > Status - In-game
 >> Tested by: ***Yuzusk#4353***
 >>>***Note*** - Game may have a bug later into it preventing progression 
+
+- ``Toodee and topdee``
+> Status - Boots
+>> Tested by: ***tanos#4079***
+>>>***Note*** - Crashes
+
+- ``vvvvvv``
+> Status - Perfect
+>> Tested by: ***tanos#4079***
+
+- ``Void prison``
+> Status - Perfect
+>> Tested by: ***tanos#4079***
+
+- ``What the golf``
+> Status - Playable(?)
+>> Tested by: ***tanos#4079***
+>>>***Note*** - 30 fps
+
 
 # Homebrew entries
 
