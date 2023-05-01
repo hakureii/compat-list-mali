@@ -1,4 +1,4 @@
-# [Skyline](https://skyline-emu.one) compaitbility list [v11.5]
+# [Skyline](https://skyline-emu.one) compaitbility list [v12]
 
 ***For Mali GPU***
 
@@ -7,11 +7,10 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 ``Currently updated to Skyline #2494``
 
 <details>
-<summary> Update v11.5 Changelog </summary>
+<summary> Update v12 Changelog </summary>
 <br>
 
-- Re-tested on update (Official section)
-- Added version info (Unofficial section)
+- Minor fix
 
 </details>  
 
@@ -27,11 +26,11 @@ If your game is not there then it may be in the unofficial section, the entries 
 <summary> What the statuses mean </summary>
 <br>
 
-- ``Nothing`` - Opens, no logs created
-- ``Boots`` - Game opens, usually doesn't progress far
-- ``In-game`` - Not reported as being finishable, usually has bugs
-- ``Playable`` - Reported as finishable
-- ``Perfect`` - No bugs
+* ``Nothing`` - Opens, no logs created
+* ``Boots`` - Game opens, usually doesn't progress far
+* ``In-game`` - Not reported as being finishable, usually has bugs
+* ``Playable`` - Reported as finishable
+* ``Perfect`` - No bugs
 
 </details> 
 
@@ -39,7 +38,7 @@ If your game is not there then it may be in the unofficial section, the entries 
 
 # Official entries
 
-***Currently updated Skyline #2419***
+***Updated to Skyline #2494***
 
 - ``Astroneer``
 > Status - Boots then nothing.
@@ -197,6 +196,8 @@ If your game is not there then it may be in the unofficial section, the entries 
 >>***Note*** - Mostly 60 FPS, Difficult to beat because of lag
 
 # Unofficial entries
+
+***Updated to Skyline #2419***
 
 - ``Ace attorney``
 > Status - Perfect
