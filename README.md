@@ -1,4 +1,4 @@
-# [Skyline](https://skyline-emu.one) compaitbility list [v13]
+# [Skyline](https://skyline-emu.one) compaitbility list [v14]
 
 ***For Mali GPU***
 
@@ -10,7 +10,27 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 <summary> Update v13 Changelog </summary>
 <br>
 
-- Updated entries - #2513
+- Added entries - (Official section)
+* A short hike
+* Axiom verge
+* Axiom verge 2
+* Carrion
+* Coffee talk
+* Cuphead
+* Deltarune
+* FEZ
+* Hollow knight
+* Kindergarten: Buddy edition
+* OMORI
+* Oceanhorn 2
+* Potion Permit
+* Skul: The Hero Slayer
+* Sonic mania
+* Spiritfarer
+* Skyward sword
+* Undertale
+* VVVVVV
+* Webbed
 
 </details>  
 
@@ -40,9 +60,19 @@ If your game is not there then it may be in the unofficial section, the entries 
 
 ***Updated to Skyline #2513***
 
+- ``A short hike``
+> Status - Playable
+>>***Note*** - Minor FPS drops
+
 - ``Astroneer``
 > Status - Boots then nothing.
 >>***Note*** - Plays garbled audio once then crashes
+
+- ``Axiom verge``
+> Status - Perfect 
+
+- ``Axiom verge 2``
+> Status - Perfect
 
 - ``Blossom tales``
 > Status - Playable
@@ -55,6 +85,9 @@ If your game is not there then it may be in the unofficial section, the entries 
 - ``Broforce``
 > Status - In-game
 >>***Note*** - Seizure graphics, bad fps update doesn't seem to do much
+
+- ``Carrion``
+> Status - Perfect
 
 - ``Cat Quest``
 > Status - Perfect
@@ -70,13 +103,24 @@ If your game is not there then it may be in the unofficial section, the entries 
 - ``Celeste``
 > Status - Perfect
 
+- ``Coffee talk``
+> Status - In-game
+>>***Note*** - FPS drops, Flashing and glitching textures and artifacts
+
 - ``Crashlands``
 > Status - Perfect
 >>***Note*** - Deadlocks in the cutscene without update, afterwards its perfect
 
+- ``Cuphead``
+> Status - In-game 
+>>***Note*** - FPS drops, missing/invisible textures
+
 - ``Dead cells``
 > Status - In-game
 >>***Note***Deadlocks at next area. Update now works still has deadlocks
+
+- ``Deltarune``
+> Status - Perfect 
 
 - ``Dont starve together``
 > Status - Somewhat playable before update. After update, worse fps.
@@ -92,6 +136,10 @@ If your game is not there then it may be in the unofficial section, the entries 
 > Status - In-game
 >>***Note*** - Deadlocks often, bad fps
 
+- ``FEZ``
+> Status - Playable
+>>***Note*** - Save issues, has a workaround
+
 - ``Forager``
 > Status - Perfect
 >>***Note*** - Update works perfectly too
@@ -99,6 +147,9 @@ If your game is not there then it may be in the unofficial section, the entries 
 - ``Hades``
 > Status - In-game
 >>***Note*** - Fps drops, game blackscreens and dies if you die
+
+- ``Hollow knight``
+> Status - Perfect
 
 - ``Ittle dew``
 > Status - Playable
@@ -111,6 +162,10 @@ If your game is not there then it may be in the unofficial section, the entries 
 - ``Katana ZERO``
 > Status - Perfect
 >>***Note*** - May need update to fix textboxes
+
+- ``Kindergarten: Buddy edition``
+> Status - Playable
+>>***Note*** - May have graphical glitches
 
 - ``Lil gator game``
 > Status - Playable
@@ -128,6 +183,13 @@ If your game is not there then it may be in the unofficial section, the entries 
 > Status - In-game
 >>***Note*** - Shows no video, plays intro sound
 
+- ``Oceanhorn 2``
+> Status - Boots 
+>>***Note*** - Crashes System UI and makes android restart when loading
+
+- ``OMORI``
+> Status - Playable
+
 - ``Outlast``
 > Status - Boots
 >>***Note*** - Deadlocks just before it gets to menu
@@ -143,6 +205,10 @@ If your game is not there then it may be in the unofficial section, the entries 
 - ``Pokémon: Lets go eevee``
 > Status - Playable
 >>***Note*** - Mostly full fps but drops
+
+- ``Potion Permit``
+> Status - Playable 
+>>***Note*** - FPS drops 
     
 - ``Shadow fight 2``
 > Status - Perfect
@@ -150,12 +216,24 @@ If your game is not there then it may be in the unofficial section, the entries 
 - ``Shovel knight dig``
 > Status - Perfect
 
+- ``Skul: The Hero Slayer``
+> Status - Playable 
+>>***Note*** - May need update to fix memleak
+
+- ``Skyward Sword``
+> Status - Playable 
+>>***Note*** - FPS drops, uncanny link eyes the text glitching out for 2 minutes
+
 - ``Slime Rancher``
 > Status - Playable
 >>***Note*** - 30-60 FPS, Graphical bugs
 
 - ``Sonic Mania``
 > Status - Perfect
+
+- ``Spiritfarer``
+> Status - Boots
+>>***Note*** - Crashes when loading save
 
 - ``Stardew Valley``
 > Status - Perfect (Gameplay)
@@ -187,14 +265,23 @@ If your game is not there then it may be in the unofficial section, the entries 
 > Status - Playable(?)
 >>***Note*** - Triple buffering must be off, Stable 30 fps. Getting it to work is annoying. refused after working once.
 
+- ``Undertale``
+> Status - Perfect 
+
 - ``Untitled goose game``
 > Status - Playable
 >>***Note*** - ~50 fps, slightly buggy
 
-- ``Wizard of legend``
+- ``VVVVVV``
+> Status - Perfect
+
+- ``Wizard of Legend``
 > Status - Playable
 >>***Note*** - Mostly 60 FPS, Difficult to beat because of lag
 
+- ``Webbedx?``
+> Status - 
+>>***Note*** - 
 # Unofficial entries
 
 ***Updated to Skyline #2513***
@@ -336,11 +423,9 @@ If your game is not there then it may be in the unofficial section, the entries 
 >>>***Note*** - Crashes
 
 - ``VVVVVV``
-> Status - Perfect
->> Tested by: ***tanos#4079***
-
-- ``Void prison``
-> Status - Perfect
+> Status- ``  ``
+> Status - 
+>>***Note*** - l - Perfect
 >> Tested by: ***tanos#4079***
 
 - ``What the golf``
