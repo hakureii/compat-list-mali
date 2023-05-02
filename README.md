@@ -7,7 +7,7 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 ``Currently updated to Skyline #2513``
 
 <details>
-<summary> Update v13 Changelog </summary>
+<summary> Update v14 Changelog </summary>
 <br>
 
 - Added entries - (Official section)
@@ -290,19 +290,9 @@ If your game is not there then it may be in the unofficial section, the entries 
 > Status - Perfect
 >> Tested by: ***tanos#4079***
 
-- ``A short hike``
-> Status - In-game 
->> Tested by: ***tanos#4079***
->>>***Note*** - Graphical issues
-
 - ``Baba is you``
 > Status - Perfect
 >> Tested by: ***tanos#4079***
-
-- ``Carrion``
-> Status - Playable
->> Tested by: ***tanos#4079***
->>>***Note*** - May crash a few times on startup
 
 - ``Captain toad treasure tracker``
 > Status - In-game 
@@ -333,11 +323,6 @@ If your game is not there then it may be in the unofficial section, the entries 
 > Status - Perfect
 >> Tested by: ***tanos#4079***
 
-- ``Kindergarten: Buddy edition``
-> Status - Playable
->> Tested by: ***tanos#4079***
->>>***Note*** - Graphical issues
-
 - ``Minecraft``
 > Status - Playable
 >> Tested by: ***tanos#4079***
@@ -345,10 +330,6 @@ If your game is not there then it may be in the unofficial section, the entries 
 
 - ``Mini motorways``
 > Status - Perfect
->> Tested by: ***tanos#4079***
-
-- ``Omori``
-> Status - Perfect 
 >> Tested by: ***tanos#4079***
 
 - ``Payday 2``
@@ -394,10 +375,6 @@ If your game is not there then it may be in the unofficial section, the entries 
 >> Tested by: ***tanos#4079***
 >>>***Note*** - Crashes
 
-- ``Sonic mania``
-> Status - Perfect 
->> Tested by: ***tanos#4079***
-
 - ``Super smash bros ultimate``
 > Status - In-game 
 >> Tested by: ***tanos#4079***
@@ -412,20 +389,13 @@ If your game is not there then it may be in the unofficial section, the entries 
 >> Tested by: ***tanos#4079***
 >>>***Note*** - Crashes randomly if you choose wrong path
 
-- ``TLoZ: Skyward Sword``
-> Status - In-game
->> Tested by: ***Yuzusk#4353***
->>>***Note*** - Game may have a bug later into it preventing progression 
-
 - ``Toodee and topdee``
 > Status - Boots
 >> Tested by: ***tanos#4079***
 >>>***Note*** - Crashes
 
-- ``VVVVVV``
-> Status- ``  ``
-> Status - 
->>***Note*** - l - Perfect
+- ``Void prison``
+> Status - Perfect
 >> Tested by: ***tanos#4079***
 
 - ``What the golf``
