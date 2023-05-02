@@ -58,9 +58,12 @@ If your game is not there then it may be in the unofficial section, the entries 
 
 ***Stats:***
 * ``Official section`` - 60 entries (Wumbee)
+
 * ``Unofficial section`` - 26 entries (Tanos)
+
 * ``Homebrew section`` - 3 entries (Wumbee) 
-* ``Total`` - 89 entries (Wumbee, Tanos)
+
+* ``Total entries`` - 89 entries (Wumbee, Tanos)
 
 # Official entries
 
