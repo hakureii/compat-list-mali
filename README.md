@@ -1,16 +1,16 @@
-# [Skyline](https://skyline-emu.one) compaitbility list [v12]
+# [Skyline](https://skyline-emu.one) compaitbility list [v13]
 
 ***For Mali GPU***
 
 Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 
-``Currently updated to Skyline #2494``
+``Currently updated to Skyline #2513``
 
 <details>
-<summary> Update v12 Changelog </summary>
+<summary> Update v13 Changelog </summary>
 <br>
 
-- Minor fix
+- Updated entries - #2513
 
 </details>  
 
@@ -38,7 +38,7 @@ If your game is not there then it may be in the unofficial section, the entries 
 
 # Official entries
 
-***Updated to Skyline #2494***
+***Updated to Skyline #2513***
 
 - ``Astroneer``
 > Status - Boots then nothing.
@@ -197,7 +197,7 @@ If your game is not there then it may be in the unofficial section, the entries 
 
 # Unofficial entries
 
-***Updated to Skyline #2419***
+***Updated to Skyline #2513***
 
 - ``Ace attorney``
 > Status - Perfect
@@ -270,9 +270,9 @@ If your game is not there then it may be in the unofficial section, the entries 
 >>>***Note*** - Crashes after pressing L2+R2
 
 - ``Persona 5 royal``
-> Status - In-game
+> Status - Boots
 >> Tested by: ***tanos#4079***
->>>***Note*** - Crashes at start after defeating big man, Requires save file
+>>>***Note*** - Crashes when loading save file
 
 - ``Pico park``
 > Status - In-game
@@ -335,7 +335,7 @@ If your game is not there then it may be in the unofficial section, the entries 
 >> Tested by: ***tanos#4079***
 >>>***Note*** - Crashes
 
-- ``vvvvvv``
+- ``VVVVVV``
 > Status - Perfect
 >> Tested by: ***tanos#4079***
 
