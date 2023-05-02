@@ -10,7 +10,7 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 <summary> Update v14 Changelog </summary>
 <br>
 
-- Added entries - (Official section)
+- Added 20 entries - (Official section)
 * A short hike
 * Axiom verge
 * Axiom verge 2
@@ -55,6 +55,11 @@ If your game is not there then it may be in the unofficial section, the entries 
 </details> 
 
 <br>
+
+***Stats:***
+* ``Official section`` - 60 entries (Wumbee)
+* ``Unofficial section`` - 26 entries (Tanos)
+* ``Homebrew section`` - (Wumbee) 
 
 # Official entries
 
