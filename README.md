@@ -275,13 +275,14 @@ If your game is not there then it may be in the unofficial section, the entries 
 - ``VVVVVV``
 > Status - Perfect
 
+- ``Webber``
+> Status - Playable
+>>***Note*** - Minor flashing rarely and rare FPS drops
+
 - ``Wizard of Legend``
 > Status - Playable
 >>***Note*** - Mostly 60 FPS, Difficult to beat because of lag
 
-- ``Webbedx?``
-> Status - 
->>***Note*** - 
 # Unofficial entries
 
 ***Updated to Skyline #2513***
