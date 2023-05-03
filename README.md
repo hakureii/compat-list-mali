@@ -306,9 +306,9 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 >>>***Note*** - Crashes after pressing L2+R2
 
 - ``Persona 5 royal``
-> Status - Boots
+> Status - Nothing 
 >> Tested by: ***tanos#4079***
->>>***Note*** - Crashes when loading save file
+>>>***Note*** - Black screen
 
 - ``Pico park``
 > Status - In-game
