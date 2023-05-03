@@ -1,4 +1,4 @@
-# [Skyline](https://skyline-emu.one) compaitbility list [v14]
+# [Skyline](https://skyline-emu.one) compaitbility list [v15]
 
 ***For Mali GPU***
 
@@ -8,7 +8,7 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 
 <br>
 
-[**Update v14 Changelog**](#update-v14-changelog)
+[**Update v14 & v15 Changelog**](#update-v14-changelog)
 
 [**What the statuses mean**](#what-the-statuses-mean)
 
@@ -412,6 +412,10 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 * Undertale
 * VVVVVV
 * Webbed
+
+## Update v15 Changelog
+
+* Temporarily Fixed the Broken Webpage.
 
 <br><br>
 
