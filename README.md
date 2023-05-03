@@ -6,62 +6,20 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 
 ``Currently updated to Skyline #2513``
 
-<details>
-<summary> Update v14 Changelog </summary>
 <br>
 
-- Added 20 entries - (Official section)
-* A short hike
-* Axiom verge
-* Axiom verge 2
-* Carrion
-* Coffee talk
-* Cuphead
-* Deltarune
-* FEZ
-* Hollow knight
-* Kindergarten: Buddy edition
-* OMORI
-* Oceanhorn 2
-* Potion Permit
-* Skul: The Hero Slayer
-* Sonic mania
-* Spiritfarer
-* Skyward sword
-* Undertale
-* VVVVVV
-* Webbed
+[**Update v14 Changelog**](#update-v14-changelog)
 
-</details>  
-
-<br>
-
-<sub>
-If your game is not there then it may be in the unofficial section, the entries there might also become outdated. If a game was playable it hardly ever regresses, so keep that in mind
-</sub>
-
-<br><br>
-
-<details>
-<summary> What the statuses mean </summary>
-<br>
-
-* ``Nothing`` - Opens, no logs created
-* ``Boots`` - Game opens, usually doesn't progress far
-* ``In-game`` - Not reported as being finishable, usually has bugs
-* ``Playable`` - Reported as finishable
-* ``Perfect`` - No bugs
-
-</details> 
+[**What the statuses mean**](#what-the-statuses-mean)
 
 <br>
 
 ***Stats:***
-* ``Official section`` - 60 entries (Wumbee)
+* [``Official section``](#official-entries) - 60 entries (Wumbee)
 
-* ``Unofficial section`` - 26 entries (Tanos)
+* [``Unofficial section``](#unofficial-entries) - 26 entries (Tanos)
 
-* ``Homebrew section`` - 3 entries (Wumbee) 
+* [``Homebrew section``](#homebrew-entries) - 3 entries (Wumbee) 
 
 * ``Total entries`` - 89 entries (Wumbee, Tanos)
 
@@ -427,3 +385,44 @@ If your game is not there then it may be in the unofficial section, the entries 
 - ``Ship of Harkanian``
 > Status - Boots
 >>***Note*** - Logs created, skyline missing necessary requirements
+
+
+<br><br>
+
+## Update v14 Changelog
+
+- Added 20 entries - (Official section)
+* A short hike
+* Axiom verge
+* Axiom verge 2
+* Carrion
+* Coffee talk
+* Cuphead
+* Deltarune
+* FEZ
+* Hollow knight
+* Kindergarten: Buddy edition
+* OMORI
+* Oceanhorn 2
+* Potion Permit
+* Skul: The Hero Slayer
+* Sonic mania
+* Spiritfarer
+* Skyward sword
+* Undertale
+* VVVVVV
+* Webbed
+
+<br><br>
+
+## What the statuses mean
+
+* ``Nothing`` - Opens, no logs created
+* ``Boots`` - Game opens, usually doesn't progress far
+* ``In-game`` - Not reported as being finishable, usually has bugs
+* ``Playable`` - Reported as finishable
+* ``Perfect`` - No bugs
+
+<br><br>
+
+## ...
