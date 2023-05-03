@@ -416,6 +416,7 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 ## Update v15 Changelog
 
 * Temporarily Fixed the Broken Webpage.
+* Added *quick links*
 
 <br><br>
 
