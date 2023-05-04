@@ -1,4 +1,4 @@
-# [Skyline](https://skyline-emu.one) compaitbility list [v15]
+# [Skyline](https://skyline-emu.one) compaitbility list [v16]
 
 ***For Mali GPU***
 
@@ -8,20 +8,20 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 
 <br>
 
-[**Update v14 & v15 Changelog**](#update-v14-changelog)
+[**Update v16 Changelog**](#update-v16-changelog)
 
 [**What the statuses mean**](#what-the-statuses-mean)
 
 <br>
 
 ***Stats:***
-* [``Official section``](#official-entries) - 60 entries (Wumbee)
+* [``Official section``](#official-entries) - 71 entries (Wumbee)
 
 * [``Unofficial section``](#unofficial-entries) - 26 entries (Tanos)
 
 * [``Homebrew section``](#homebrew-entries) - 3 entries (Wumbee) 
 
-* ``Total entries`` - 89 entries (Wumbee, Tanos)
+* ``Total entries`` - 100 (:O) entries (Wumbee, Tanos)
 
 # Official entries
 
@@ -70,6 +70,10 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 - ``Celeste``
 > Status - Perfect
 
+- ``Chicory: A colourful tale``
+> Status - Playable
+>>***Note*** - Ignore lag on start screen 
+
 - ``Coffee talk``
 > Status - In-game
 >>***Note*** - FPS drops, Flashing and glitching textures and artifacts
@@ -77,6 +81,10 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 - ``Crashlands``
 > Status - Perfect
 >>***Note*** - Deadlocks in the cutscene without update, afterwards its perfect
+
+- ``Cult of the lamb``
+> Status - In-game 
+>>***Note*** - Random save corruption, Update fixes audio and stutters. Minor black textures 
 
 - ``Cuphead``
 > Status - In-game 
@@ -111,12 +119,29 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 > Status - Perfect
 >>***Note*** - Update works perfectly too
 
+- ``Gato Roboto``
+> Status - Perfect
+
+- ``Golf story``
+> Status - Perfect
+
 - ``Hades``
 > Status - In-game
 >>***Note*** - Fps drops, game blackscreens and dies if you die
 
 - ``Hollow knight``
 > Status - Perfect
+
+- ``Hotline Miami``
+> Status - Perfect
+
+- ``Hyper light drifter``
+> Status - Playable
+>>***Note*** - Weird green colour filter appears sometimes
+
+- ``Into the Breach``
+> Status - In-game
+>>***Note*** - Broken text
 
 - ``Ittle dew``
 > Status - Playable
@@ -150,6 +175,10 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 > Status - In-game
 >>***Note*** - Shows no video, plays intro sound
 
+- ``Neon Abyss``
+> Status - Playable
+>>***Note*** - Mild graphical glitches 
+
 - ``Oceanhorn 2``
 > Status - Boots 
 >>***Note*** - Crashes System UI and makes android restart when loading
@@ -160,6 +189,9 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 - ``Outlast``
 > Status - Boots
 >>***Note*** - Deadlocks just before it gets to menu
+
+- ``Owlboy``
+> Status - Perfect
 
 - ``Pokémon brilliant diamond``
 > Status - Nothing
@@ -190,6 +222,10 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 - ``Skyward Sword``
 > Status - Playable 
 >>***Note*** - FPS drops, uncanny link eyes the text glitching out for 2 minutes
+
+- ``Slay the spire``
+> Status - Boots
+>>***Note*** - Deadlocks at blackscreen after logo
 
 - ``Slime Rancher``
 > Status - Playable
@@ -229,8 +265,12 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 >>***Note*** - Requires settings, 30-60 FPS with intro screen bugged
 
 - ``The survivalists``
-> Status - Playable(?)
->>***Note*** - Triple buffering must be off, Stable 30 fps. Getting it to work is annoying. refused after working once.
+> Status - In-game(?)
+>>***Note*** - Triple buffering must be off, Unstable ~28 fps. Getting it to work is annoying. refused after working once.
+
+- ``The swords of Ditto``
+> Status - Playable
+>>***Note*** - May freeze for a little bit during transition screen
 
 - ``Undertale``
 > Status - Perfect 
@@ -386,37 +426,22 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 > Status - Boots
 >>***Note*** - Logs created, skyline missing necessary requirements
 
-
 <br><br>
 
-## Update v14 Changelog
+## Update v16 Changelog
 
-- Added 20 entries - (Official section)
-* A short hike
-* Axiom verge
-* Axiom verge 2
-* Carrion
-* Coffee talk
-* Cuphead
-* Deltarune
-* FEZ
-* Hollow knight
-* Kindergarten: Buddy edition
-* OMORI
-* Oceanhorn 2
-* Potion Permit
-* Skul: The Hero Slayer
-* Sonic mania
-* Spiritfarer
-* Skyward sword
-* Undertale
-* VVVVVV
-* Webbed
-
-## Update v15 Changelog
-
-* Temporarily Fixed the Broken Webpage.
-* Added *quick links*
+***Added 11 entries - (Official section)***
+* Chicory: a colourful tale
+* Cult of the lamb
+* Gato roboto
+* Golf story
+* Hotline Miami
+* Hyper light drifter
+* Into the breach
+* Neon abyss
+* Owlboy
+* Slay the spire
+* The swords of Ditto: Mormo's curse
 
 <br><br>
 
@@ -427,7 +452,3 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 * ``In-game`` - Not reported as being finishable, usually has bugs
 * ``Playable`` - Reported as finishable
 * ``Perfect`` - No bugs
-
-<br><br>
-
-## ...
