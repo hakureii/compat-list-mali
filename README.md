@@ -17,11 +17,11 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 ***Stats:***
 * [``Official section``](#official-entries) - 71 entries (Wumbee)
 
-* [``Unofficial section``](#unofficial-entries) - 26 entries (Tanos)
+* [``Unofficial section``](#unofficial-entries) - 26 entries (Tanos) + 3 entries (yusef.sarkhani)
 
 * [``Homebrew section``](#homebrew-entries) - 3 entries (Wumbee) 
 
-* ``Total entries`` - 100 (:O) entries (Wumbee, Tanos)
+* ``Total entries`` - 103 (:O) entries (Wumbee, Tanos)
 
 # Official entries
 
@@ -369,6 +369,10 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 >> Tested by: ***tanos#4079***
 >>>***Note*** - Crashes
 
+- ``Pokemon Legends Arceus``
+> Status - Boots
+>> Tested by: ***yusef.sarkhani#5534***
+
 - ``Rain world``
 > Status - In-game
 >> Tested by: ***tanos#4079***
@@ -460,6 +464,7 @@ Bowser fury 20-30Fps 'Docked'  (mtk 8100)
 
 * Crash Team Racing
 * Mario 3d World + Bowser fury
+* Pokemon Legends Arceus
 
 <br><br>
 
