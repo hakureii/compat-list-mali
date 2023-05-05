@@ -385,8 +385,8 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 
 - ``Suoer Mario 3d World + Bowser fury``
 > Status - In-game
->>***Note*** - runs 50~60Fps both dock or undock
-Bowser fury 20~30Fps 'Docked'  (mtk 8100)
+>>***Note*** - runs 50-60Fps both dock or undock
+Bowser fury 20-30Fps 'Docked'  (mtk 8100)
 >>> Tested by: ***yusef.sarkhani#5534***
 
 - ``Sayonara wild hearts``
