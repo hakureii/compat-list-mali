@@ -1,4 +1,4 @@
-# [Skyline](https://skyline-emu.one) compaitbility list [v16]
+# [Skyline](https://skyline-emu.one) compaitbility list [v16.5]
 
 ***For Mali GPU***
 
@@ -8,7 +8,7 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 
 <br>
 
-[**Update v16 Changelog**](#update-v16-changelog)
+[**Update v16 & v16.5 Changelog**](#update-v16-changelog)
 
 [**What the statuses mean**](#what-the-statuses-mean)
 
@@ -306,6 +306,11 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 > Status - In-game 
 >> Tested by: ***tanos#4079***
 
+- ``Crash Team Racing``
+> Status - Playable
+>>***Note*** - The game runs 30 fps but will break if you play for long time (memleak)
+>>> Tested by: ***yusef.sarkhani#5534***
+
 - ``Doki Doki``
 > Status - Perfect
 >> Tested by: ***tanos#4079***
@@ -378,6 +383,12 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 >> Tested by: ***tanos#4079***
 >>>***Note*** - Crashes at metro kingdom
 
+- ``Suoer Mario 3d World + Bowser fury``
+> Status - In-game
+>>***Note*** - runs 50~60Fps both dock or undock
+Bowser fury 20~30Fps 'Docked'  (mtk 8100)
+>>> Tested by: ***yusef.sarkhani#5534***
+
 - ``Sayonara wild hearts``
 > Status - Boots 
 >> Tested by: ***tanos#4079***
@@ -442,6 +453,13 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 * Owlboy
 * Slay the spire
 * The swords of Ditto: Mormo's curse
+
+## Update v16.5 Chnagelog
+
+***Added entries***
+
+* Crash Team Racing
+* Mario 3d World + Bowser fury
 
 <br><br>
 
