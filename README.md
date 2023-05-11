@@ -1,4 +1,4 @@
-# [Skyline](https://skyline-emu.one) compaitbility list [v16.5]
+# [Strato](https://github.com/strato-emu/strato) compaitbility list [v0]
 
 ***For Mali GPU***
 
@@ -8,7 +8,7 @@ Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 
 <br>
 
-[**Update v16 & v16.5 Changelog**](#update-v16-changelog)
+[**Update v0 changelog**](#update-v0-changelog)
 
 [**What the statuses mean**](#what-the-statuses-mean)
 
@@ -443,30 +443,13 @@ Bowser fury 20-30Fps 'Docked'  (mtk 8100)
 
 <br><br>
 
-## Update v16 Changelog
 
-***Added 11 entries - (Official section)***
-* Chicory: a colourful tale
-* Cult of the lamb
-* Gato roboto
-* Golf story
-* Hotline Miami
-* Hyper light drifter
-* Into the breach
-* Neon abyss
-* Owlboy
-* Slay the spire
-* The swords of Ditto: Mormo's curse
+## Update v0 Changelog
 
-## Update v16.5 Chnagelog
+* Rebranded to strato compatibility list
 
-***Added entries***
 
-* Crash Team Racing
-* Mario 3d World + Bowser fury
-* Pokemon Legends Arceus
-
-<br><br>
+<br>
 
 ## What the statuses mean
 
