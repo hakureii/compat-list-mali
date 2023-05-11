@@ -4,7 +4,7 @@
 
 Tested on Mali g77 mc9 - [***Wumbee***](https://github.com/Wumbee01)
 
-Used [device](https://m.gsmarena.com/xiaomi_11t-11099.php)
+Used device [here](https://m.gsmarena.com/xiaomi_11t-11099.php)
 
 ``Currently updated to Skyline #2513``
 
