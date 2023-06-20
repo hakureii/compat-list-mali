@@ -1,33 +1,48 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
+<!doctype html>
+<html lang="en">
+<head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>strato compatibility list | compat-list-mali | compatibility-list</title>
+    <meta property="og:title" content="strato compatibility list" />
+    <meta property="og:locale" content="en_US" />
+    <link rel="canonical" href="https://hakureii.github.io/compat-list-mali/" />
+<meta property="og:url" content="https://hakureii.github.io/compat-list-mali/" />
+<meta property="og:site_name" content="compat-list-mali" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="strato compatibility list" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"strato compatibility list","name":"compat-list-mali","url":"https://hakureii.github.io/compat-list-mali/"}</script>
+    <link rel="stylesheet" href="/compat-list-mali/assets/css/style.css" type="text/css">
+    <link rel="shortcut icon" type="image/x-icon" href="/compat-list-mali/assets/images/strato.png">
+    <meta name="description" content="a mali gpu compatibility list of nintendo switch games for strato emulator!" />
+    <meta property="og:description" content="a list of working/non-working games for Mali gpu!"/>
+    <meta property="og:image" content="/compat-list-mali/assets/images/strato.png" />
+    <meta name="theme-color" content="#2C2D31">
+<meta name="msapplication-navbutton-color" content="#2C2D31">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+</head>
+<body><h1 id="strato-compatibility-list"><a href="https://github.com/strato-emu/strato"><img src="/compat-list-mali/assets/images/strato.png" alt="strato" id="logo"></a>strato compatibility list<button type="button" id="menum" onclick="mainMenu()">🔍</button>
+</h1>
 
-{% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-    {% include head-custom.html %}
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1><img src="https://github.com/fake-dyno/Wumbee-s_Mali_Compatibility_List/raw/main/resource/Wumbee-modified.png" width="30" height="30">WUMBEE</h1>
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-        </ul>
-        {% endif %}
-      </header>
-    </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-  </body>
-<footer>
+<div style="display: none; position: fixed; overflow: hidden;" id="menu"><input type="text" id="keywords" onkeyup="search()" placeholder="Search for games.." title="search">
+</div>
+<section id="listMain">
+
      {{ content }}
+
+</section>
+<footer>
+    <p style="text-align: center;"><b>Testers<b></p>
+<p style="text-align: center; word-spacing: 20px;" id="tester"><sub>Wumbee  tanos  yusef</sub></p><br>
+<p style="text-align: center;"><b>Maintainers<b></p>
+<p style="text-align: center; word-spacing: 30px;"><sub>Wumbee  Hakurei</sub></p>
 </footer>
+<br><br>
+<script src="/compat-list-mali/assets/js/script.js"></script>
+</body>
+</html>
+</body>
 </html>
