@@ -1,7 +1,7 @@
 Unofficial compatibility list for Mali by Wumbee and Hakureii. Compatibility may vary with non-dimensity Mali chips !
 
 <details>
-    <summary>ChangeLog version 0</summary>
+    <summary>ChangeLog version 1</summary>
 
     <p><code>completely renewed!</code></p>
 </details>
