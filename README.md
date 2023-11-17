@@ -3,7 +3,7 @@ Unofficial compatibility list for Mali by Wumbee and Hakureii. Compatibility may
 <details>
     <summary>ChangeLog version 1.1</summary>
 
-    <p><code>Added `Metroid Dread`, `Watermelon Game`, `Tboi Rebirth`, `Tboi repentance`, `Gunbrella`, `Nova Lands`, `Ember Knights`, `Factorio`</code></p>
+    <p><code>Added Metroid Dread, Watermelon Game, Tboi Rebirth, Tboi Repentance, Gunbrella, Nova Lands, Ember Knights, Factorio</code></p>
 </details>
 
 <br>
