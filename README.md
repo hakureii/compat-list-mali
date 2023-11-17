@@ -1,9 +1,9 @@
 Unofficial compatibility list for Mali by Wumbee and Hakureii. Compatibility may vary with non-dimensity Mali chips !
 
 <details>
-    <summary>ChangeLog version 1</summary>
+    <summary>ChangeLog version 1.1</summary>
 
-    <p><code>completely renewed!</code></p>
+    <p><code>Added `Metroid Dread`, `Watermelon Game`, `Tboi Rebirth`, `Tboi repentance`, `Gunbrella`, `Nova Lands`, `Ember Knights`, `Factorio`</code></p>
 </details>
 
 <br>
