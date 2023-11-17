@@ -88,6 +88,10 @@ Unofficial compatibility list for Mali by Wumbee and Hakureii. Compatibility may
 - ``Enter the gungeon``
 > Status - Perfect
 
+- ``Ember Knights``
+> Status - Perfect
+>>**Note** - Requires strato fixes
+
 - ``Evil tonight``
 > Status - Perfect(?)
 
