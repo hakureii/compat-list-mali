@@ -95,6 +95,10 @@ Unofficial compatibility list for Mali by Wumbee and Hakureii. Compatibility may
 > Status - In-game
 >>**Note** - Deadlocks often, bad fps
 
+- ``Factorio``
+> Status - Boots
+>>**Note** - Crashes on loading screen (Adreno too) 
+
 - ``FEZ``
 > Status - Playable
 >>**Note** - Save issues, has a workaround
@@ -108,6 +112,10 @@ Unofficial compatibility list for Mali by Wumbee and Hakureii. Compatibility may
 
 - ``Golf story``
 > Status - Perfect
+
+- ``Gunbrella``
+> Status - Boots
+>>**Note** - Memory usage spiked to 6 gb. Crashed afterwards (On loading screen)
 
 - ``Hades``
 > Status - In-game
@@ -162,6 +170,10 @@ Unofficial compatibility list for Mali by Wumbee and Hakureii. Compatibility may
 - ``Neon Abyss``
 > Status - Playable
 >>**Note** - Mild graphical glitches 
+
+- ``Nova Lands``
+> Status - Playable 
+>>**Note** - Weird black square patterns in menus, similar to Subnautica. Memory Leak (Game issue)
 
 - ``Oceanhorn 2``
 > Status - Boots 
@@ -237,22 +249,29 @@ Unofficial compatibility list for Mali by Wumbee and Hakureii. Compatibility may
 > Status - Playable
 >>**Note** - Requires update, some textures may turn black
 
-- ``Super meat boy``
+- ``Super Meat Boy``
 > Status - Perfect
 
-- ``Tboi afterbirth+``
+- ``Tboi Afterbirth+``
 > Status - Perfect
 >>**Note** - Requires update
+
+- ``Tboi Rebirth``
+> Status - Perfect
+
+- ``Tboi Repentance``
+> Status - Playable
+>>**Note** - Has speedups, item textures may get mixed up
 
 - ``Terraria``
 > Status - Playable
 >>**Note** - Requires settings, 30-60 FPS with intro screen bugged
 
-- ``The survivalists``
+- ``The Survivalists``
 > Status - In-game(?)
 >>**Note** - Triple buffering must be off, Unstable ~28 fps. Getting it to work is annoying. refused after working once.
 
-- ``The swords of Ditto``
+- ``The Swords of Ditto``
 > Status - Playable
 >>**Note** - May freeze for a little bit during transition screen
 
@@ -264,6 +283,9 @@ Unofficial compatibility list for Mali by Wumbee and Hakureii. Compatibility may
 >>**Note** - ~50 fps, slightly buggy
 
 - ``VVVVVV``
+> Status - Perfect
+
+- ``Watermelon Game``
 > Status - Perfect
 
 - ``Webber``
